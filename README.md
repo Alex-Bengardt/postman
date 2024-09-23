@@ -1,4 +1,17 @@
 # postman
-![Регистрация нового пользователя]([http://url/to/img.png](https://github.com/Alex-Bengardt/postman/blob/main/1.jpg))
-![Аутентификация пользователя]([http://url/to/img.png](https://github.com/Alex-Bengardt/postman/blob/main/2.jpg))
-![Получение данных о пользователе]([http://url/to/img.png](https://github.com/Alex-Bengardt/postman/blob/main/4.jpg))
+
+<h1>Регистрация нового пользователя</h1>
+<p align="center">
+  <img src="1.jpg" height="450"/>
+</p>
+
+<h1>Аутентификация пользователя</h1>
+<p align="center">
+  <img src="2.jpg" height="450"/>
+</p>
+
+<h1>Получение данных о пользователе</h1>
+<p align="center">
+  <img src="/src/Postman03.JPG" height="450"/>
+  <img src="4.jpg" height="450"/>
+</p>
